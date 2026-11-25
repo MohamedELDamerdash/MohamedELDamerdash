@@ -21,7 +21,7 @@ I help companies find and fix security vulnerabilities before attackers do. Manu
 ## Products
 
 - **MenuFlow — Flutter Restaurant Menu App Template** — complete bilingual (Arabic/English RTL) source code with a step-by-step customization guide.
-- **Arabic Web & Mobile Security Checklist** — 200+ practical pentest checks based on OWASP Top 10 and MASVS, written in Arabic.
+- **Arabic Web & Mobile Security Checklist** — 165 practical pentest checks based on OWASP Top 10 and MASVS, written in Arabic.
 
 Both available on my Gumroad store: [malkang.gumroad.com](https://malkang.gumroad.com)
 
